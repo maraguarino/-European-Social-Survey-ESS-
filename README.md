@@ -6,4 +6,5 @@ The European Social Survey (ESS) is a large-scale survey of social attitudes and
 - How did these opinions differ between European countries?
 
 Find my dashboard here: https://public.tableau.com/app/profile/mara.guarino2196/viz/ESS_17538800317010/Dashboard
+
 <img width="1429" height="808" alt="image" src="https://github.com/user-attachments/assets/b4c28eb8-fb0f-4b87-93d6-648d798b0a63" />
